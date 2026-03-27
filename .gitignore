@@ -1,0 +1,19 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.log
+
+# Maven
+target/
+!target/surefire-reports/
+!target/test-classes/
+.idea/
+.settings/
+.classpath
+.project
+# OS specific
+.DS_Store
+Thumbs.db
